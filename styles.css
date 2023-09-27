@@ -74,7 +74,7 @@ body {
 .heading {
     text-transform: uppercase;
     color: var(--Dark__Grayish__Red);
-    font-size: 6rem;
+    font-size: 4.5rem;
     font-weight: 400;
     letter-spacing: 1rem;
 }
