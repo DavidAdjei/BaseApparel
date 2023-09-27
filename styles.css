@@ -114,6 +114,7 @@ body {
     border-right: none;
     line-height: 2.511875rem;
     padding-inline: 2rem;
+    background-color: transparent;
 }
 
 .email:focus{
